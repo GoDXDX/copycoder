@@ -125,9 +125,7 @@ You can also deploy the application manually to any platform that supports Next.
 3. Set up any necessary serverless functions support
 
 
-## Follow My WeChat Official Account
-
-Stay updated with the latest AI development tips and tools:
+## Stay updated with the latest AI development tips and tools:
 
 <div align="center">
     <li>🤖 AI Programming Tips & Tricks</li>
