@@ -130,10 +130,6 @@ You can also deploy the application manually to any platform that supports Next.
 Stay updated with the latest AI development tips and tools:
 
 <div align="center">
-  <img src="./public/wechat-qr.jpg" alt="WeChat Official Account QR Code" width="200"/>
-  <p><strong>WeChat Official Account: LaoMa XiaoZhang</strong></p>
-  <p>Scan the QR code to follow and get the latest updates on:</p>
-  <ul align="left">
     <li>🤖 AI Programming Tips & Tricks</li>
     <li>💻 Full-Stack Development Insights</li>
     <li>🛠️ Productivity Tools and Workflows</li>
